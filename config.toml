@@ -3,7 +3,7 @@ limit_days = 14
 cache_url = "https://junzheshen.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 500
+limit = 200
 category = "cs.CL"
 title = "Computation and Language"
 
@@ -28,7 +28,7 @@ title = "Machine Learning"
 # title = "Multimedia"
 
 [[sources]]
-limit = 150
+limit = 200
 category = "cs.AI"
 title = "Artificial Intelligence"
 
