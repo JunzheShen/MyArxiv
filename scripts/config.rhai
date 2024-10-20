@@ -1,6 +1,6 @@
 let titles_type = ["Survey", "Review", "Overview"];
 let titles_model = ["GPT", "Transformer", "Diffusion", "Consistency Model", "Rectified Flow"];
-let titles_method = ["Rotary Positional Encoding", "RoPE", "Long", "Context"];
+let titles_method = ["Rotary Positional Encoding", "RoPE", "Long", "Context", "Positional Encoding", "Positional", "Extrapolation", "Interpolation", "Length"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [""];
 
