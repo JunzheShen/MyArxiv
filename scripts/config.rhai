@@ -1,6 +1,6 @@
 let titles_type = [];
 let titles_model = ["Diffusion", "Consistency Model", "Rectified Flow"];
-let titles_method = ["Rotary Positional Encoding", "RoPE", "Long", "Context", "Positional Encoding", "Positional", "Extrapolation", "Interpolation", "Length", "Attention", "Speculative", "Decoding", "Retrieval", "Retrieval Augmented", "Retrieval-Augmented", "RAG"];
+let titles_method = ["Rotary Positional Encoding", "RoPE", "Long", "Context", "Positional Encoding", "Positional", "Extrapolation", "Interpolation", "Length", "Attention", "Speculative", "Decoding", "Retrieval", "Retrieval Augmented", "Retrieval-Augmented", "RAG", "tool"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [""];
 
