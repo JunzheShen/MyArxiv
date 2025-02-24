@@ -1,6 +1,6 @@
 let titles_type = [];
 let titles_model = ["Diffusion", "Consistency Model", "Rectified Flow"];
-let titles_method = ["Long", "CoT", "Chain", "Reason", "Reinforcement", "Scaling"];
+let titles_method = ["Long", "CoT", "Chain", "Reason", "Reinforcement", "Scaling", "RL"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = [""];
 
